@@ -1,23 +1,3 @@
-//package com.bookstore.util;
-//import java.sql.*;
-//
-//public class ConnectionFactory {
-//	
-//	private static Connection connection;
-//	public static Connection getConnection(){
-//		try {
-//			Class.forName("com.mysql.cj.jdbc.Driver");
-//			
-//		}catch(ClassNotFoundException e) {
-//			e.printStackTrace();
-//		}
-//		connection=DriverManager.getConnection("jdbc:mysql://mylocalhost:3306/db1", "root", "root");
-//	}
-//	
-//	return connection;
-//}
-//
-//
 
 package com.bookstore.util;
 
@@ -42,4 +22,5 @@ public class ConnectionFactory {
         return connection;
     }
 }
+
 
