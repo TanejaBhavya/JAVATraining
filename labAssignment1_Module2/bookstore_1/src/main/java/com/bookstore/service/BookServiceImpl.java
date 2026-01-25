@@ -9,22 +9,7 @@ import com.bookstore.dao.DaoException;
 import com.bookstore.dto.Book;
 
 public class BookServiceImpl implements BookService {
-//		BookJdbcImpl bookDao;
-//		try {
-//			bookDao = new BookJdbcImpl();
-//	
-//		List<Book> books = bookDao.getAllBooks();
-//		books.forEach(b-> System.out.println(b));
-//		Book book=bookDao.addBook(new Book("978-9351340201", "effective java", "abc", 340.00));
-//		System.out.println(book);
-//		} catch (DaoException | SQLException e) {
-//			
-//		}
-//	}
-	
-	
-	
-	
+
 	private BookDao bookDao;
 	public BookServiceImpl() {
 		try {
@@ -36,9 +21,6 @@ public class BookServiceImpl implements BookService {
 	}
 	
 
-	
-	
-	
 	
 	@Override
 	public List<Book> getAllBooks() {
@@ -95,3 +77,4 @@ public class BookServiceImpl implements BookService {
 			
 		}
 }
+
