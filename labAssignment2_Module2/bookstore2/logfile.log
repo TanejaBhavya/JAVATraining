@@ -1,0 +1,75 @@
+INFO  | 2026-01-27 00:07:00 | [main] service.BookServiceTest (BookServiceTest.java:40) - STARTING BOOKSERVICE TESTS
+INFO  | 2026-01-27 00:07:01 | [main] service.BookServiceTest (BookServiceTest.java:50) - Test started
+INFO  | 2026-01-27 00:07:01 | [main] service.BookServiceTest (BookServiceTest.java:86) - Test Starting -> negative addBook
+INFO  | 2026-01-27 00:07:01 | [main] service.BookServiceTest (BookServiceTest.java:55) - Test ended
+INFO  | 2026-01-27 00:07:01 | [main] service.BookServiceTest (BookServiceTest.java:50) - Test started
+INFO  | 2026-01-27 00:07:01 | [main] service.BookServiceTest (BookServiceTest.java:97) - Test Starting -> positive updateBook
+INFO  | 2026-01-27 00:07:01 | [main] service.BookServiceTest (BookServiceTest.java:55) - Test ended
+INFO  | 2026-01-27 00:07:01 | [main] service.BookServiceTest (BookServiceTest.java:50) - Test started
+INFO  | 2026-01-27 00:07:01 | [main] service.BookServiceTest (BookServiceTest.java:60) - Test Starting -> positive addBook
+INFO  | 2026-01-27 00:07:01 | [main] service.BookServiceTest (BookServiceTest.java:55) - Test ended
+INFO  | 2026-01-27 00:07:01 | [main] service.BookServiceTest (BookServiceTest.java:50) - Test started
+INFO  | 2026-01-27 00:07:01 | [main] service.BookServiceTest (BookServiceTest.java:77) - Test Starting -> negative addBook
+INFO  | 2026-01-27 00:07:01 | [main] service.BookServiceTest (BookServiceTest.java:55) - Test ended
+INFO  | 2026-01-27 00:07:01 | [main] service.BookServiceTest (BookServiceTest.java:50) - Test started
+INFO  | 2026-01-27 00:07:01 | [main] service.BookServiceTest (BookServiceTest.java:111) - Test Starting -> negative updateBook
+INFO  | 2026-01-27 00:07:01 | [main] service.BookServiceTest (BookServiceTest.java:55) - Test ended
+INFO  | 2026-01-27 00:07:01 | [main] service.BookServiceTest (BookServiceTest.java:45) - ALL TESTS ARE FINISHED
+INFO  | 2026-01-27 23:40:21 | [main] service.BookServiceTest (BookServiceTest.java:48) - STARTING BOOKSERVICE TESTS
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:58) - Test started
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:96) - Test Starting -> negative addBook
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:64) - Test ended
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:58) - Test started
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:169) - Test Starting -> negative findBookWithId
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:64) - Test ended
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:58) - Test started
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:161) - Test Starting -> positive findBookWithId
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:64) - Test ended
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:58) - Test started
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:138) - Test Starting -> positive deleteBook
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:64) - Test ended
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:58) - Test started
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:108) - Test Starting -> positive updateBook
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:64) - Test ended
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:58) - Test started
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:148) - Test Starting -> negative zdeleteBook
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:64) - Test ended
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:58) - Test started
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:69) - Test Starting -> positive addBook
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:64) - Test ended
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:58) - Test started
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:86) - Test Starting -> negative addBook
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:64) - Test ended
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:58) - Test started
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:123) - Test Starting -> negative updateBook
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:64) - Test ended
+INFO  | 2026-01-27 23:40:22 | [main] service.BookServiceTest (BookServiceTest.java:53) - ALL TESTS ARE FINISHED
+INFO  | 2026-01-27 23:41:45 | [main] service.BookServiceTest (BookServiceTest.java:48) - STARTING BOOKSERVICE TESTS
+INFO  | 2026-01-27 23:41:45 | [main] service.BookServiceTest (BookServiceTest.java:58) - Test started
+INFO  | 2026-01-27 23:41:45 | [main] service.BookServiceTest (BookServiceTest.java:96) - Test Starting -> negative addBook
+INFO  | 2026-01-27 23:41:45 | [main] service.BookServiceTest (BookServiceTest.java:64) - Test ended
+INFO  | 2026-01-27 23:41:46 | [main] service.BookServiceTest (BookServiceTest.java:58) - Test started
+INFO  | 2026-01-27 23:41:46 | [main] service.BookServiceTest (BookServiceTest.java:169) - Test Starting -> negative findBookWithId
+INFO  | 2026-01-27 23:41:46 | [main] service.BookServiceTest (BookServiceTest.java:64) - Test ended
+INFO  | 2026-01-27 23:41:46 | [main] service.BookServiceTest (BookServiceTest.java:58) - Test started
+INFO  | 2026-01-27 23:41:46 | [main] service.BookServiceTest (BookServiceTest.java:161) - Test Starting -> positive findBookWithId
+INFO  | 2026-01-27 23:41:46 | [main] service.BookServiceTest (BookServiceTest.java:64) - Test ended
+INFO  | 2026-01-27 23:41:46 | [main] service.BookServiceTest (BookServiceTest.java:58) - Test started
+INFO  | 2026-01-27 23:41:46 | [main] service.BookServiceTest (BookServiceTest.java:138) - Test Starting -> positive deleteBook
+INFO  | 2026-01-27 23:41:46 | [main] service.BookServiceTest (BookServiceTest.java:64) - Test ended
+INFO  | 2026-01-27 23:41:46 | [main] service.BookServiceTest (BookServiceTest.java:58) - Test started
+INFO  | 2026-01-27 23:41:46 | [main] service.BookServiceTest (BookServiceTest.java:108) - Test Starting -> positive updateBook
+INFO  | 2026-01-27 23:41:46 | [main] service.BookServiceTest (BookServiceTest.java:64) - Test ended
+INFO  | 2026-01-27 23:41:46 | [main] service.BookServiceTest (BookServiceTest.java:58) - Test started
+INFO  | 2026-01-27 23:41:46 | [main] service.BookServiceTest (BookServiceTest.java:148) - Test Starting -> negative zdeleteBook
+INFO  | 2026-01-27 23:41:46 | [main] service.BookServiceTest (BookServiceTest.java:64) - Test ended
+INFO  | 2026-01-27 23:41:46 | [main] service.BookServiceTest (BookServiceTest.java:58) - Test started
+INFO  | 2026-01-27 23:41:46 | [main] service.BookServiceTest (BookServiceTest.java:69) - Test Starting -> positive addBook
+INFO  | 2026-01-27 23:41:46 | [main] service.BookServiceTest (BookServiceTest.java:64) - Test ended
+INFO  | 2026-01-27 23:41:46 | [main] service.BookServiceTest (BookServiceTest.java:58) - Test started
+INFO  | 2026-01-27 23:41:46 | [main] service.BookServiceTest (BookServiceTest.java:86) - Test Starting -> negative addBook
+INFO  | 2026-01-27 23:41:46 | [main] service.BookServiceTest (BookServiceTest.java:64) - Test ended
+INFO  | 2026-01-27 23:41:46 | [main] service.BookServiceTest (BookServiceTest.java:58) - Test started
+INFO  | 2026-01-27 23:41:46 | [main] service.BookServiceTest (BookServiceTest.java:123) - Test Starting -> negative updateBook
+INFO  | 2026-01-27 23:41:46 | [main] service.BookServiceTest (BookServiceTest.java:64) - Test ended
+INFO  | 2026-01-27 23:41:46 | [main] service.BookServiceTest (BookServiceTest.java:53) - ALL TESTS ARE FINISHED
